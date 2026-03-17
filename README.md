@@ -73,19 +73,6 @@ pip install -r requirements.txt
 python app.py
 ```
 
----
-
-## 📸 Demo
-
-
-
-Example:
-
-```bash
-![Demo](images/demo.png)
-```
-
----
 
 ## ⚠️ Limitations
 
